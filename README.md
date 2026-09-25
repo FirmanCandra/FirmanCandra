@@ -20,6 +20,8 @@
 - 🎓 Undergraduate **Informatics (Informatika)** student at **Universitas Muhammadiyah Semarang**
 - 🔭 Focused on **Computer Vision**, **Machine Learning**, **Cloud Computing**, and **Web Development**
 - 🌱 Currently exploring deeper into CNN-based image classification
+- 🤝 Active member of **HIMA Informatika**
+- 🏘️ Currently doing community service (KKN) in Desa Ketitang, Kecamatan Godong, Kabupaten Grobogan
 - 📍 Based in Semarang, Indonesia
 - 📫 Reach me on LinkedIn or Instagram above
 
@@ -55,6 +57,17 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=FirmanCandra&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+### 💣 Bomberman Contribution Graph
+
+<!-- bomberman -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FirmanCandra/FirmanCandra/output/bomberman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FirmanCandra/FirmanCandra/output/bomberman-contribution-graph.svg">
+    <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/FirmanCandra/FirmanCandra/output/bomberman-contribution-graph.svg">
+</picture>
 
 ---
 
