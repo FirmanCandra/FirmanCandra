@@ -20,8 +20,6 @@
 - 🎓 Undergraduate **Informatics (Informatika)** student at **Universitas Muhammadiyah Semarang**
 - 🔭 Focused on **Computer Vision**, **Machine Learning**, **Cloud Computing**, and **Web Development**
 - 🌱 Currently exploring deeper into CNN-based image classification
-- 🤝 Active member of **HIMA Informatika**
-- 🏘️ Currently doing community service (KKN) in Desa Ketitang, Kecamatan Godong, Kabupaten Grobogan
 - 📍 Based in Semarang, Indonesia
 - 📫 Reach me on LinkedIn or Instagram above
 
@@ -55,15 +53,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FirmanCandra&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-### 📌 Featured Projects
-
-- 🏘️ [mekarabadi](https://github.com/FirmanCandra/mekarabadi) — Blade
-- 🔐 [myapp-login](https://github.com/FirmanCandra/myapp-login) — JavaScript
-- 🌐 [sebaris.id](https://github.com/FirmanCandra/sebaris.id) — Blade
-- 👁️ [Visi-Komputer](https://github.com/FirmanCandra/Visi-Komputer) — Blade
-
----
 
 <p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
