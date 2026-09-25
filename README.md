@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Firman Candra Ardian 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Informatics+Student+%40+UNIMUS;Computer+Vision+%26+Machine+Learning+Enthusiast;Cloud+%26+Web+Developer;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Informatics+Student+%40+UNIMUS;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,9 +19,6 @@
 
 - 🎓 Undergraduate **Informatics (Informatika)** student at **Universitas Muhammadiyah Semarang**
 - 🔭 Focused on **Computer Vision**, **Machine Learning**, **Cloud Computing**, and **Web Development**
-- 🌱 Currently exploring deeper into CNN-based image classification
-- 🤝 Active member of **HIMA Informatika**
-- 🏘️ Currently doing community service (KKN) in Desa Ketitang, Kecamatan Godong, Kabupaten Grobogan
 - 📍 Based in Semarang, Indonesia
 - 📫 Reach me on LinkedIn or Instagram above
 
@@ -50,11 +47,6 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FirmanCandra&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirmanCandra&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
   <img src="https://streak-stats.demolab.com/?user=FirmanCandra&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -71,13 +63,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-- 🏘️ [mekarabadi](https://github.com/FirmanCandra/mekarabadi) — Blade
-- 🔐 [myapp-login](https://github.com/FirmanCandra/myapp-login) — JavaScript
-- 🌐 [sebaris.id](https://github.com/FirmanCandra/sebaris.id) — Blade
-- 👁️ [Visi-Komputer](https://github.com/FirmanCandra/Visi-Komputer) — Blade
-
 ---
 
-<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
+<p align="center"><i>Thanks for stopping by!</i></p>
